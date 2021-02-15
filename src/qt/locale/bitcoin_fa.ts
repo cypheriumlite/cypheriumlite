@@ -184,7 +184,7 @@
         <translation>کیف پول رمزنگاری شد</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumlites from being stolen by malware infecting your computer.</source>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumcypher from being stolen by malware infecting your computer.</source>
         <translation>کیف cypheriumlite رمزنگاری شد. به یاد داشته باشید رمزنگار کردن کیف cypheriumlite نمیتواند به صورت کامل cypheriumlite شما را در مقابل سرقت آنها توسط بدافزارهایی که ممکن است بر روی کامپیوتر شما نصب شوند، محافظت نماید.</translation>
     </message>
     <message>

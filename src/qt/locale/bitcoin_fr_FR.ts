@@ -47,11 +47,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Choisissez une adresse où envoyer les cypheriumlites</translation>
+        <translation>Choisissez une adresse où envoyer les cypheriumcypher</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Choisissez une adresse où recevoir les cypheriumlites</translation>
+        <translation>Choisissez une adresse où recevoir les cypheriumcypher</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -188,8 +188,8 @@
         <translation>Portefeuille chiffré</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumlites from being stolen by malware infecting your computer.</source>
-        <translation>Le porte-monnaie a été chiffré. N'oubliez pas que le chiffrement de votre porte-monnaie ne peut pas entièrement protéger vos cypheriumlites contre le vol par un logiciel malveillant qui infecterait votre ordinateur.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumcypher from being stolen by malware infecting your computer.</source>
+        <translation>Le porte-monnaie a été chiffré. N'oubliez pas que le chiffrement de votre porte-monnaie ne peut pas entièrement protéger vos cypheriumcypher contre le vol par un logiciel malveillant qui infecterait votre ordinateur.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>

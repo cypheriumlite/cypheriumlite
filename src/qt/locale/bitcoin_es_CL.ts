@@ -864,8 +864,8 @@
         <translation>Las transacciones recientes aún no pueden ser visibles, y por lo tanto el saldo de su monedero podría ser incorrecto. Esta información será correcta cuando su monedero haya terminado de sincronizarse con la red de cypheriumlite, como se detalla abajo.</translation>
     </message>
     <message>
-        <source>Attempting to spend cypheriumlites that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>La red no aceptará el intentar gastar cypheriumlites que están afectados por transacciones aún no mostradas.</translation>
+        <source>Attempting to spend cypheriumcypher that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>La red no aceptará el intentar gastar cypheriumcypher que están afectados por transacciones aún no mostradas.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>

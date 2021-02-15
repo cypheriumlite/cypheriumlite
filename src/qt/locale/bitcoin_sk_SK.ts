@@ -888,7 +888,7 @@
         <translation>Nedávne transakcie ešte nemusia byť viditeľné takže zostatok vo vašej peňaženke môže byť nesprávny. Táto informácia sa opraví keď sa vaša peňaženka zosynchronizuje s Cypheriumlite sieťou ako je popísané nižšie.</translation>
     </message>
     <message>
-        <source>Attempting to spend cypheriumlites that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend cypheriumcypher that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>Pokusy o minutie cypheriumliteov ktoré sú ovplyvnené ešte nezobrazenými transakciami nebudú prijaté sieťou.</translation>
     </message>
     <message>
@@ -2334,7 +2334,7 @@ Zapamätajte si: Keďže cena poplatku je počítaná za bajt, tak poplatok o ho
         <translation>Vymazať tento vstup</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less cypheriumlites than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cypheriumcypher than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Poplatok bude odčítaný z čiastky ktorá bola odoslaná. Prijímateľ obdrží menej Cypheriumliteov ako vložíte do poľa s čiastkou. Ak ste si vybrali viacerích prijímateľov tak bude poplatok rozdelený rovnomerne.</translation>
     </message>
     <message>
@@ -2407,7 +2407,7 @@ Zapamätajte si: Keďže cena poplatku je počítaná za bajt, tak poplatok o ho
         <translation>&amp;Podpísať Správu</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive cypheriumlites sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cypheriumcypher sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Môžete podpísať správy / dohody s vašimi adresami, aby ste dokázali, že môžete obdržať Cypheriumlitey ktoré tam boli zaslané. Buďte opatrný a nikdy nepodpodpisujte nič náhodné alebo nejasné, kedže phishing útoky sa vás môžu pokúsiť naviesť na podpísanie vašej indentity. Podpisujte len podrobné vyhlásenia s ktorými súhlasíte.</translation>
     </message>
     <message>

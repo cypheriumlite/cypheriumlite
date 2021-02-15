@@ -188,7 +188,7 @@
         <translation>Wallet terenkripsi</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumlites from being stolen by malware infecting your computer.</source>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumcypher from being stolen by malware infecting your computer.</source>
         <translation>Wallet anda sekarang sudah terenkripsi. Perlu diingat bahwa enkripsi wallet anda tidak dapat sepenuhnya melindungi cypheriumlite dari pencurian melalui malware yang menginfeksi komputer anda. </translation>
     </message>
     <message>

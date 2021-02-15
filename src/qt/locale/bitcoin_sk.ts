@@ -188,7 +188,7 @@
         <translation>Peňaženka zašifrovaná</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumlites from being stolen by malware infecting your computer.</source>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your cypheriumcypher from being stolen by malware infecting your computer.</source>
         <translation>Vaša peňaženka je teraz zašifrovaná. Zašifrovanie peňaženky Vás plne nechráni pred krádežou cypheriumliteov škodlivými programami, ktoré prenikli do vášho počítača.</translation>
     </message>
     <message>
@@ -343,7 +343,7 @@
     </message>
     <message>
         <source>Send coins to a Cypheriumlite address</source>
-        <translation>Poslať cypheriumlites na adresu</translation>
+        <translation>Poslať cypheriumcypher na adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -948,7 +948,7 @@
         <translation>Nedávne transakcie nemusia byť ešte viditeľné preto môže byť zostatok vo vašej peňaženke nesprávny. Táto informácia bude správna keď sa dokončí synchronizovanie peňaženky so sieťou cypheriumlite, ako je rozpísané nižšie.</translation>
     </message>
     <message>
-        <source>Attempting to spend cypheriumlites that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend cypheriumcypher that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>Pokus o minutie cypheriumliteov, ktoré sú ovplyvnené ešte nezobrazenými transakciami, nebude sieťou akceptovaný.</translation>
     </message>
     <message>
@@ -2121,7 +2121,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Poslať Cypheriumlites</translation>
+        <translation>Poslať Cypheriumcypher</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -2447,7 +2447,7 @@ Poznámka: Keďže poplatok je počítaný za bajt, poplatok o hodnote "100 sato
         <translation>Odstrániť túto položku</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less cypheriumlites than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less cypheriumcypher than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Poplatok sa odpočíta od čiastky, ktorú odosielate. Príjemca dostane menej cypheriumliteov ako zadáte. Ak je vybraných viacero príjemcov, poplatok je rozdelený rovným dielom.</translation>
     </message>
     <message>
@@ -2520,7 +2520,7 @@ Poznámka: Keďže poplatok je počítaný za bajt, poplatok o hodnote "100 sato
         <translation>&amp;Podpísať Správu</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive cypheriumlites sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive cypheriumcypher sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Môžete podpísať správy svojou adresou a dokázať, že viete prijímať mince zaslané na túto adresu. Buďte však opatrní a podpíšte len podrobné prehlásenia, s ktorými plne súhlasíte, nakoľko útoky typu "phishing" Vás môžu lákať k podpísaniu nejasných alebo príliš všeobecných tvrdení čím prevezmú vašu identitu.</translation>
     </message>
     <message>

@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your Cypheriumlite addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Cypheriumlite adressen om betalingen te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u Cypheriumlites verstuurd.</translation>
+        <translation>Dit zijn uw Cypheriumlite adressen om betalingen te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u Cypheriumcypher verstuurd.</translation>
     </message>
     <message>
         <source>These are your Cypheriumlite addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
