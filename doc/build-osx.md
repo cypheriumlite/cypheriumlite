@@ -43,8 +43,8 @@ Build Cypheriumlite Core
 
 1. Clone the Cypheriumlite Core source code:
 
-        git clone https://github.com/litecoin-project/litecoin
-        cd litecoin
+        git clone https://github.com/cypheriumlite-project/cypheriumlite
+        cd cypheriumlite
 
 2.  Build Cypheriumlite Core:
 
@@ -70,9 +70,9 @@ Build Cypheriumlite Core
 
     or
 
-        cd ~/litecoin/src
-        cp litecoind /usr/local/bin/
-        cp litecoin-cli /usr/local/bin/
+        cd ~/cypheriumlite/src
+        cp cypheriumlited /usr/local/bin/
+        cp cypheriumlite-cli /usr/local/bin/
 
 Disable-wallet mode
 --------------------
@@ -88,17 +88,17 @@ Mining is also possible in disable-wallet mode using the `getblocktemplate` RPC 
 Running
 -------
 
-Cypheriumlite Core is now available at `./src/litecoind`
+Cypheriumlite Core is now available at `./src/cypheriumlited`
 
 Before running, you may create an empty configuration file:
 
     mkdir -p "/Users/${USER}/Library/Application Support/Cypheriumlite"
 
-    touch "/Users/${USER}/Library/Application Support/Cypheriumlite/litecoin.conf"
+    touch "/Users/${USER}/Library/Application Support/Cypheriumlite/cypheriumlite.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Cypheriumlite/litecoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Cypheriumlite/cypheriumlite.conf"
 
-The first time you run litecoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
+The first time you run cypheriumlited, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
 
 You can monitor the download process by looking at the debug.log file:
 
@@ -107,9 +107,9 @@ You can monitor the download process by looking at the debug.log file:
 Other commands:
 -------
 
-    ./src/litecoind -daemon # Starts the litecoin daemon.
-    ./src/litecoin-cli --help # Outputs a list of command-line options.
-    ./src/litecoin-cli help # Outputs a list of RPC commands when the daemon is running.
+    ./src/cypheriumlited -daemon # Starts the cypheriumlite daemon.
+    ./src/cypheriumlite-cli --help # Outputs a list of command-line options.
+    ./src/cypheriumlite-cli help # Outputs a list of RPC commands when the daemon is running.
 
 Notes
 -----

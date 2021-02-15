@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.litecoin.Cypheriumlite-Qt";
+        return @"org.cypheriumlite.Cypheriumlite-Qt";
     } else {
         return [self __bundleIdentifier];
     }

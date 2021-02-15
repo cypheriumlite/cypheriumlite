@@ -17,13 +17,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Cypheriumlite"
-            VALUE "FileDescription",    "litecoin-tx (CLI Cypheriumlite transaction editor utility)"
+            VALUE "FileDescription",    "cypheriumlite-tx (CLI Cypheriumlite transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "litecoin-tx"
+            VALUE "InternalName",       "cypheriumlite-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "litecoin-tx.exe"
-            VALUE "ProductName",        "litecoin-tx"
+            VALUE "OriginalFilename",   "cypheriumlite-tx.exe"
+            VALUE "ProductName",        "cypheriumlite-tx"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

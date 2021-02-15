@@ -406,7 +406,7 @@
         <translation>Раздели</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <source>Request payments (generates QR codes and cypheriumlite: URIs)</source>
         <translation>Изискване на плащания(генерира QR кодове и Cypheriumlite: URIs)</translation>
     </message>
     <message>
@@ -418,7 +418,7 @@
         <translation>Покажи списък с използваните адреси и имена.</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
+        <source>Open a cypheriumlite: URI or payment request</source>
         <translation>Отворете Cypheriumlite: URI  или заявка за плащане</translation>
     </message>
     <message>
@@ -1078,7 +1078,7 @@
         <translation>Възникна грешка по време назаявката за плащане</translation>
     </message>
     <message>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start cypheriumlite: click-to-pay handler</source>
         <translation>Cypheriumlite не можe да се стартира: click-to-pay handler</translation>
     </message>
     <message>

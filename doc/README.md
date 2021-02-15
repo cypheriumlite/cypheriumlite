@@ -5,7 +5,7 @@ Setup
 ---------------------
 Cypheriumlite Core is the original Cypheriumlite client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Cypheriumlite transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Cypheriumlite Core, visit [litecoin.org](https://litecoin.org/).
+To download Cypheriumlite Core, visit [cypheriumlite.org](https://cypheriumlite.org/).
 
 Running
 ---------------------
@@ -15,12 +15,12 @@ The following are some helpful notes on how to run Cypheriumlite Core on your na
 
 Unpack the files into a directory and run:
 
-- `bin/litecoin-qt` (GUI) or
-- `bin/litecoind` (headless)
+- `bin/cypheriumlite-qt` (GUI) or
+- `bin/cypheriumlited` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run litecoin-qt.exe.
+Unpack the files into a directory, and then run cypheriumlite-qt.exe.
 
 ### macOS
 
@@ -28,10 +28,10 @@ Drag Cypheriumlite Core to your applications folder, and then run Cypheriumlite 
 
 ### Need Help?
 
-* See the documentation at the [Cypheriumlite Wiki](https://litecoin.info/)
+* See the documentation at the [Cypheriumlite Wiki](https://cypheriumlite.info/)
 for help and more information.
-* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [CypheriumliteTalk](https://litecointalk.io/) forums, in the [Technical Support section](https://litecointalk.io/c/technical-support).
+* Ask for help on [#cypheriumlite](http://webchat.freenode.net?channels=cypheriumlite) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=cypheriumlite).
+* Ask for help on the [CypheriumliteTalk](https://cypheriumlitetalk.io/) forums, in the [Technical Support section](https://cypheriumlitetalk.io/c/technical-support).
 
 Building
 ---------------------
@@ -64,8 +64,8 @@ The Cypheriumlite repo's [root README](/README.md) contains relevant information
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [CypheriumliteTalk](https://litecointalk.io/) forums.
-* Discuss general Cypheriumlite development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
+* Discuss on the [CypheriumliteTalk](https://cypheriumlitetalk.io/) forums.
+* Discuss general Cypheriumlite development on #cypheriumlite-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=cypheriumlite-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
