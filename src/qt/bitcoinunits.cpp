@@ -44,7 +44,7 @@ QString BitcoinUnits::longName(int unit)
     {
     case BTC: return QString("CYL");
     case mBTC: return QString("cypher");
-    case uBTC: return QString("photons");
+    case uBTC: return QString("spark");
     case SAT: return QString("litoshi");
     default: return QString("???");
     }
